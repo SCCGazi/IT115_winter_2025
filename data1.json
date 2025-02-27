@@ -1,0 +1,14 @@
+{
+    "name": "Gazi Kutbay",
+    "age": 43,
+    "City": "Seattle, WA",
+    "interests": [
+        "Traveling",
+        "Soccer",
+        "Basketball",
+        "Running",
+        "Videogames",
+        "History"
+    ],
+    "is_student": true
+}
